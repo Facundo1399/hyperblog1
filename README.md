@@ -10,6 +10,12 @@ Un blog depractica para las clases de git y github [curso de platzi](http://http
 * Las buenas practicas
 * Trucos
 * Creado como practica
+<<<<<<< HEAD
+=======
+* Practicas solo en windows
+* A un precio accesible
+
+>>>>>>> readme-mejorado
 
 Y como recordatorio: **Este readme.md es solo practica** .Diseñado para el ejemplo practica **pero no lo tomes muy en serio** 
 **mi repositorio hasta ahora** [Repositorio de github](http://https://github.com/Facundo1399/hyperblog1 "Repositorio de github")
